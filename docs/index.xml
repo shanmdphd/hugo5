@@ -2,36 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>/index.xml</link>
+    <link>https://shanmdphd.github.io/hugo5/index.xml</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2016 Copyright my blog</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 14:41:00 +0100</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Showcase</title>
-      <link>/showcase/</link>
-      <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/showcase/</guid>
-      <description>
-
-&lt;h1 id=&#34;showcase&#34;&gt;Showcase&lt;/h1&gt;
-
-&lt;p&gt;Showcase text in english.&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sun, 24 Apr 2016 02:50:28 +0200</lastBuildDate>
+    <atom:link href="https://shanmdphd.github.io/hugo5/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is Hugo?</title>
-      <link>/2016/04/24/what-is-hugo/</link>
+      <link>https://shanmdphd.github.io/hugo5/2016/04/24/what-is-hugo/</link>
       <pubDate>Sun, 24 Apr 2016 02:50:28 +0200</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/2016/04/24/what-is-hugo/</guid>
+      <guid>https://shanmdphd.github.io/hugo5/2016/04/24/what-is-hugo/</guid>
       <description>
 
 &lt;p&gt;Hugo is a general-purpose website framework. Technically speaking, Hugo is
@@ -114,8 +100,8 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Extremely fast build times (~1 ms per page)&lt;/li&gt;
 &lt;li&gt;Completely cross platform: Runs on &lt;i class=&#34;fa fa-apple&#34;&gt;&lt;/i&gt;&amp;nbsp;Mac OS&amp;nbsp;X, &lt;i class=&#34;fa fa-linux&#34;&gt;&lt;/i&gt;&amp;nbsp;Linux, &lt;i class=&#34;fa fa-windows&#34;&gt;&lt;/i&gt;&amp;nbsp;Windows, and more!&lt;/li&gt;
-&lt;li&gt;Easy &lt;a href=&#34;/overview/installing/&#34;&gt;installation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Render changes &lt;a href=&#34;/overview/usage/&#34;&gt;on the fly&lt;/a&gt; with &lt;a href=&#34;/extras/livereload/&#34;&gt;LiveReload&lt;/a&gt; as you develop&lt;/li&gt;
+&lt;li&gt;Easy &lt;a href=&#34;https://shanmdphd.github.io/hugo5/overview/installing/&#34;&gt;installation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Render changes &lt;a href=&#34;https://shanmdphd.github.io/hugo5/overview/usage/&#34;&gt;on the fly&lt;/a&gt; with &lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/livereload/&#34;&gt;LiveReload&lt;/a&gt; as you develop&lt;/li&gt;
 &lt;li&gt;Complete theme support&lt;/li&gt;
 &lt;li&gt;Host your site anywhere&lt;/li&gt;
 &lt;/ul&gt;
@@ -123,33 +109,33 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;h3 id=&#34;organization&#34;&gt;Organization&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Straightforward &lt;a href=&#34;/content/organization/&#34;&gt;organization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support for &lt;a href=&#34;/content/sections/&#34;&gt;website sections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Completely customizable &lt;a href=&#34;/extras/urls/&#34;&gt;URLs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support for configurable &lt;a href=&#34;/taxonomies/overview/&#34;&gt;taxonomies&lt;/a&gt; which includes categories and tags.  Create your own custom organization of content&lt;/li&gt;
-&lt;li&gt;Ability to &lt;a href=&#34;/content/ordering/&#34;&gt;sort content&lt;/a&gt; as you desire&lt;/li&gt;
-&lt;li&gt;Automatic &lt;a href=&#34;/extras/toc/&#34;&gt;table of contents&lt;/a&gt; generation&lt;/li&gt;
+&lt;li&gt;Straightforward &lt;a href=&#34;https://shanmdphd.github.io/hugo5/content/organization/&#34;&gt;organization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support for &lt;a href=&#34;https://shanmdphd.github.io/hugo5/content/sections/&#34;&gt;website sections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Completely customizable &lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/urls/&#34;&gt;URLs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support for configurable &lt;a href=&#34;https://shanmdphd.github.io/hugo5/taxonomies/overview/&#34;&gt;taxonomies&lt;/a&gt; which includes categories and tags.  Create your own custom organization of content&lt;/li&gt;
+&lt;li&gt;Ability to &lt;a href=&#34;https://shanmdphd.github.io/hugo5/content/ordering/&#34;&gt;sort content&lt;/a&gt; as you desire&lt;/li&gt;
+&lt;li&gt;Automatic &lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/toc/&#34;&gt;table of contents&lt;/a&gt; generation&lt;/li&gt;
 &lt;li&gt;Dynamic menu creation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/extras/urls/&#34;&gt;Pretty URLs&lt;/a&gt; support&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/extras/permalinks/&#34;&gt;Permalink&lt;/a&gt; pattern support&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/extras/aliases/&#34;&gt;Aliases&lt;/a&gt; (redirects)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/urls/&#34;&gt;Pretty URLs&lt;/a&gt; support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/permalinks/&#34;&gt;Permalink&lt;/a&gt; pattern support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/aliases/&#34;&gt;Aliases&lt;/a&gt; (redirects)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Native support for content written in &lt;a href=&#34;/content/example/&#34;&gt;Markdown&lt;/a&gt;
+&lt;li&gt;Native support for content written in &lt;a href=&#34;https://shanmdphd.github.io/hugo5/content/example/&#34;&gt;Markdown&lt;/a&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Support for other languages through &lt;em&gt;external helpers&lt;/em&gt;, see &lt;a href=&#34;/content/supported-formats&#34;&gt;supported formats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support for other languages through &lt;em&gt;external helpers&lt;/em&gt;, see &lt;a href=&#34;https://shanmdphd.github.io/hugo5/content/supported-formats&#34;&gt;supported formats&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Support for TOML, YAML and JSON metadata in &lt;a href=&#34;/content/front-matter/&#34;&gt;frontmatter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Completely &lt;a href=&#34;/layout/homepage/&#34;&gt;customizable homepage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support for multiple &lt;a href=&#34;/content/types/&#34;&gt;content types&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Automatic and user defined &lt;a href=&#34;/content/summaries/&#34;&gt;summaries&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/extras/shortcodes/&#34;&gt;Shortcodes&lt;/a&gt; to enable rich content inside of Markdown&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/layout/variables/&#34;&gt;&amp;laquo;Minutes to Read&amp;raquo;&lt;/a&gt; functionality&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/layout/variables/&#34;&gt;&amp;laquo;Wordcount&amp;raquo;&lt;/a&gt; functionality&lt;/li&gt;
+&lt;li&gt;Support for TOML, YAML and JSON metadata in &lt;a href=&#34;https://shanmdphd.github.io/hugo5/content/front-matter/&#34;&gt;frontmatter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Completely &lt;a href=&#34;https://shanmdphd.github.io/hugo5/layout/homepage/&#34;&gt;customizable homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support for multiple &lt;a href=&#34;https://shanmdphd.github.io/hugo5/content/types/&#34;&gt;content types&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Automatic and user defined &lt;a href=&#34;https://shanmdphd.github.io/hugo5/content/summaries/&#34;&gt;summaries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/shortcodes/&#34;&gt;Shortcodes&lt;/a&gt; to enable rich content inside of Markdown&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shanmdphd.github.io/hugo5/layout/variables/&#34;&gt;&amp;laquo;Minutes to Read&amp;raquo;&lt;/a&gt; functionality&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shanmdphd.github.io/hugo5/layout/variables/&#34;&gt;&amp;laquo;Wordcount&amp;raquo;&lt;/a&gt; functionality&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;additional-features&#34;&gt;Additional Features&lt;/h3&gt;
@@ -157,12 +143,12 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Integrated &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt; comment support&lt;/li&gt;
 &lt;li&gt;Integrated &lt;a href=&#34;https://google-analytics.com/&#34;&gt;Google Analytics&lt;/a&gt; support&lt;/li&gt;
-&lt;li&gt;Automatic &lt;a href=&#34;/layout/rss/&#34;&gt;RSS&lt;/a&gt; creation&lt;/li&gt;
+&lt;li&gt;Automatic &lt;a href=&#34;https://shanmdphd.github.io/hugo5/layout/rss/&#34;&gt;RSS&lt;/a&gt; creation&lt;/li&gt;
 &lt;li&gt;Support for &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;Go&lt;/a&gt;, &lt;a href=&#34;https://github.com/eknkc/amber&#34;&gt;Amber&lt;/a&gt; and &lt;a href=&#34;http://ace.yoss.si/&#34;&gt;Ace&lt;/a&gt; HTML templates&lt;/li&gt;
-&lt;li&gt;Syntax &lt;a href=&#34;/extras/highlighting/&#34;&gt;highlighting&lt;/a&gt; powered by &lt;a href=&#34;http://pygments.org/&#34;&gt;Pygments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Syntax &lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/highlighting/&#34;&gt;highlighting&lt;/a&gt; powered by &lt;a href=&#34;http://pygments.org/&#34;&gt;Pygments&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;See what&amp;rsquo;s coming next in the &lt;a href=&#34;/meta/roadmap/&#34;&gt;roadmap&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;See what&amp;rsquo;s coming next in the &lt;a href=&#34;https://shanmdphd.github.io/hugo5/meta/roadmap/&#34;&gt;roadmap&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;who-should-use-hugo&#34;&gt;Who should use Hugo?&lt;/h2&gt;
 
@@ -205,10 +191,10 @@ as I have writing it.&lt;/p&gt;
     
     <item>
       <title>Introduction</title>
-      <link>/2016/04/21/introduction/</link>
+      <link>https://shanmdphd.github.io/hugo5/2016/04/21/introduction/</link>
       <pubDate>Thu, 21 Apr 2016 02:50:28 +0200</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/2016/04/21/introduction/</guid>
+      <guid>https://shanmdphd.github.io/hugo5/2016/04/21/introduction/</guid>
       <description>
 
 &lt;p&gt;안녕하세요? 한성필입니다.&lt;/p&gt;
@@ -252,7 +238,7 @@ easier: just run &lt;code&gt;brew update &amp;amp;&amp;amp; brew install hugo&lt
 
 &lt;p&gt;The Hugo executable has one &lt;em&gt;optional&lt;/em&gt; external dependency for source code highlighting (Pygments).&lt;/p&gt;
 
-&lt;p&gt;If you want to have source code highlighting using the &lt;a href=&#34;/extras/highlighting/&#34;&gt;highlight shortcode&lt;/a&gt;,
+&lt;p&gt;If you want to have source code highlighting using the &lt;a href=&#34;https://shanmdphd.github.io/hugo5/extras/highlighting/&#34;&gt;highlight shortcode&lt;/a&gt;,
 you need to install the Python-based Pygments program. The procedure is outlined on the &lt;a href=&#34;http://pygments.org/&#34;&gt;Pygments home page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;upgrading-hugo&#34;&gt;Upgrading Hugo&lt;/h2&gt;
@@ -287,16 +273,16 @@ $ go get -v github.com/spf13/hugo
 
 &lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
 
-&lt;p&gt;Please see the &lt;a href=&#34;/doc/contributing/&#34;&gt;contributing guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please see the &lt;a href=&#34;https://shanmdphd.github.io/hugo5/doc/contributing/&#34;&gt;contributing guide&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
+      <link>https://shanmdphd.github.io/hugo5/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>/2015/07/23/hello-r-markdown/</guid>
+      <guid>https://shanmdphd.github.io/hugo5/2015/07/23/hello-r-markdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -330,7 +316,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://shanmdphd.github.io/hugo5/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

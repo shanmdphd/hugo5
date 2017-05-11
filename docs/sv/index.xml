@@ -2,29 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Min blog</title>
-    <link>/sv/index.xml</link>
+    <link>https://shanmdphd.github.io/hugo5/sv/index.xml</link>
     <description>Recent content on Min blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2016 Alla rättigheter</copyright>
-    <lastBuildDate>Mon, 05 Dec 2016 14:41:00 +0100</lastBuildDate>
-    <atom:link href="/sv/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Exempel</title>
-      <link>/sv/exempel/</link>
-      <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>/sv/exempel/</guid>
-      <description>
-
-&lt;h1 id=&#34;exempel&#34;&gt;Exempel&lt;/h1&gt;
-
-&lt;p&gt;Exempel text på svenska.&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="https://shanmdphd.github.io/hugo5/sv/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
