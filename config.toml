@@ -1,7 +1,7 @@
 publishdir = "docs/"
 
 # hostname (and path) to the root eg. https://appernetic.github.io/
-baseurl = "/"
+baseurl = "https://shanmdphd.github.io/"
 
 DefaultContentLanguage = "en"
 
